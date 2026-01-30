@@ -1,5 +1,10 @@
 # 🌤️ React Weather App
 
+🔗 **Live Demo:**  
+https://react-weather-app-5ut4.onrender.com
+
+# 🌤️ React Weather App
+
 A modern weather application built using **React + Vite** that allows users to search for real-time weather information by city.  
 The app fetches live data from the **OpenWeather API** and displays it using a clean **Material UI** interface.
 
